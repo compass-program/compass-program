@@ -4,6 +4,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" style="height: 48px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height: 48px"/>
 	<img src="https://i.imgur.com/Q2VaxDg.png" style="height: 48px"/>
+	<img src="https://i.imgur.com/tbd0Ekr.png" style="height: 48px"/>
 </div>
 
 ## Фронтенд:
@@ -20,5 +21,7 @@
 ## Бекенд:
 <div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 48px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="height: 48px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="height: 48px"/>
 </div>
 
